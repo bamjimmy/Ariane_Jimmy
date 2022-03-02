@@ -1,0 +1,20 @@
+body {
+    background-color: grey;
+    align-items: center;
+    font-size: 19px;
+    width: 120vw;
+    font-family: 'Courier New', Courier, monospace;
+}
+p {
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 16px;
+   color:antiquewhite; 
+}
+#header{
+    display:flex;
+    background-color:antiquewhite;
+}
+#nav-bar{
+    display: flex;
+    margin-left: auto;
+}
